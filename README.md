@@ -13,5 +13,7 @@
   - Boradcasting, Matrix, Hadamard Product
 - **2.6 Linear Algebra - III**
   - Norms, Determinant, Inverse, Linear Equations
+- **2.7 Practice**
+  - 100 Numpy Questions
 ### 3. Pandas
 - **2.1 **
