@@ -1,5 +1,7 @@
 # Python
 ### 1. Basics
+- **1.1 Practice**
+  - Arithmetic Operations, Loops, Functions, List, Tuples, Dictionary, Set
 ### 2. Numpy
 - **2.1 Basics**
   - Arrays, Matrix, Mathematical Operations - Addition, Subtraction, Multiplication, Division, Matrix Multiplication
@@ -16,4 +18,4 @@
 - **2.7 Practice**
   - 100 Numpy Questions
 ### 3. Pandas
-- **2.1 **
+- **2.1 Basics**
