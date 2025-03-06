@@ -1,0 +1,41 @@
+1. Create a list of 10 numbers
+2. Access the first and last elements of a list
+3. Change the third element of a list to 50
+4. Add an element to the end, beginning of a list
+5. Insert an element at index 2
+6. Remove an element from a list
+7. Remove the last element from a list
+8. Remove the first element from a list
+9. Reverse a list
+10. Sort a list in ascending order
+11. Sort a list in descending order
+12. Find the sum of all elements in a list
+13. Find the product of all elements in a list
+14. Find the maximum and minimum values in a list
+15. Count occurrences of a specific element in a list
+16. Find the index of a given element
+17. Create a list of squares of numbers from 1 to 10
+18. Create a list of powers of number itself from 1 to 10
+19. Merge two lists into a single list
+20. Remove duplicates from a list
+21. Find the intersection of two lists
+22. Find the union of two lists
+23. Slice the first 5 elements from a list
+24. Find all even numbers in a list
+25. Find all odd numbers in a list
+26. Convert a list into a string
+27. Convert a string into a list
+28. Find the difference between two lists
+29. Create a list of tuples from two lists
+30. Create a list of tuples from a single list
+31. Extract even numbers from a list using list comprehension
+32. Extract numbers divisible by 3
+33. Create a list of squares for numbers > 5
+34. Flatten a nested list
+35. Find the most frequent element in a list
+36. Find the most common word in a list
+37. Group elements of a list into odd and even numbers
+38. Find the second most frequent element in a list
+39. Remove all occurrences of a given element from a list
+40. Convert a list into a dictionary
+41. Convert a list of key-value pairs into a dictionary
