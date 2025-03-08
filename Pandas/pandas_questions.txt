@@ -1,0 +1,50 @@
+1. How do you install Pandas?
+2. How do you import Pandas in Python?
+3. How do you create a Pandas Series?
+4. How do you create a Pandas DataFrame from a dictionary?
+5. How do you read a CSV file into a Pandas DataFrame?
+6. How do you display the first 5 rows of a DataFrame?
+7. How do you get the column names of a DataFrame?
+8. How do you check for missing values in a DataFrame?
+9. How do you fill missing values with a specific value?
+10. How do you drop rows containing missing values?
+11. How do you select a specific column from a DataFrame?
+12. How do you select multiple columns from a DataFrame?
+13. How do you select rows based on a condition (e.g., age > 30)?
+14. How do you filter rows where a column contains a specific value?
+15. How do you get summary statistics (mean, median, std) of a DataFrame?
+16. How do you rename columns in a Pandas DataFrame?
+17. How do you sort a DataFrame by a column?
+18. How do you reset the index of a DataFrame?
+19. How do you set a specific column as the index of a DataFrame?
+20. How do you check the data types of each column in a DataFrame?
+21. How do you convert a column's data type to a different type (e.g., int → float)?
+22. How do you apply a function to each element of a column?
+23. How do you group data using groupby()?
+24. How do you aggregate grouped data using agg()?
+25. How do you get the row with the highest and lowest values in a column?
+26. How do you merge two DataFrames based on a common column (merge())?
+27. How do you concatenate multiple DataFrames (concat())?
+28. How do you remove duplicate rows from a DataFrame?
+29. How do you create a new column based on values of another column?
+30. How do you count the number of occurrences of unique values in a column?
+31. How do you pivot a DataFrame using pivot_table()?
+32. How do you reshape data using melt()?
+33. How do you find correlation between numerical columns?
+34. How do you apply a lambda function to modify a column?
+35. How do you shuffle rows of a DataFrame randomly?
+36. How do you sample N random rows from a DataFrame?
+37. How do you convert a categorical column to one-hot encoding?
+38. How do you convert a datetime column to Pandas datetime format?
+39. How do you extract year, month, and day from a datetime column?
+40. How do you create a rolling window of size N to calculate moving averages?
+41. How do you handle outliers in a DataFrame?
+42. How do you remove highly correlated columns from a DataFrame?
+43. How do you handle large datasets efficiently in Pandas?
+44. How do you optimize Pandas DataFrames using category data type?
+45. How do you efficiently filter rows using .query() instead of loops?
+46. How do you merge two DataFrames with different column names?
+47. How do you calculate cumulative sum (cumsum()) in a column?
+48. How do you convert a Pandas DataFrame to a NumPy array?
+49. How do you export a Pandas DataFrame to a CSV file?
+50. How do you handle missing values using interpolation?
