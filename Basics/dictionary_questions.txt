@@ -1,0 +1,65 @@
+1. Create a dictionary with 5 key-value pairs.
+2. Access a value using a key.
+3. Change the value of a specific key.
+4. Add a new key-value pair to a dictionary.
+5. Remove a key from a dictionary.
+6. Get all keys from a dictionary.
+7. Get all values from a dictionary.
+8. Get all key-value pairs as a list of tuples.
+9. Check if a key exists in a dictionary.
+10. Merge two dictionaries.
+11. Find the length of a dictionary.
+12. Find the sum of all values in a dictionary (if values are numeric).
+13. Sort a dictionary by keys.
+14. Sort a dictionary by values.
+15. Get the key of the maximum value in a dictionary.
+16. Get the key of the minimum value in a dictionary.
+17. Reverse a dictionary (swap keys and values).
+18. Remove all elements from a dictionary.
+19. Convert two lists into a dictionary.
+20. Find common keys between two dictionaries.
+21. Find the difference in keys between two dictionaries.
+22. Find the union of two dictionaries (merge without duplicates).
+23. Convert a dictionary into a list of key-value tuples.
+24. Convert a list of key-value tuples into a dictionary.
+25. Iterate over a dictionary and print key-value pairs.
+26. Find the most frequent value in a dictionary.
+27. Filter a dictionary based on a condition (e.g., values > 50).
+28. Create a nested dictionary and access inner elements.
+29. Use dictionary comprehension to create a dictionary from a list.
+30. Group elements into a dictionary based on a property.
+31. Convert a dictionary into a pandas DataFrame.
+32. Merge multiple dictionaries dynamically (more than two).
+33. Find the intersection of two dictionaries (common key-value pairs).
+34. Increment values in a dictionary based on a list of keys.
+35. Use defaultdict from collections to handle missing keys.
+36. Find the most frequent value in a dictionary.
+37. Filter a dictionary based on a condition (e.g., values > 50).
+38. Create a nested dictionary and access inner elements.
+39. Use dictionary comprehension to create a dictionary from a list.
+40. Group elements into a dictionary based on a property.
+41. Convert a dictionary into a pandas DataFrame.
+42. Merge multiple dictionaries dynamically (more than two).
+43. Find the intersection of two dictionaries (common key-value pairs).
+44. Increment values in a dictionary based on a list of keys.
+45. Use defaultdict from collections to handle missing keys.
+46. Create a dictionary where keys are numbers from 1 to 10, and values are their squares.
+47. Filter a dictionary to keep only keys that have even values.
+48. Swap keys and values in a dictionary where values are unique.
+49. Find the key with the second highest value in a dictionary.
+50. Merge multiple dictionaries into one (more than 2 dictionaries).
+51. Count the occurrences of each word in a given sentence using a dictionary.
+52. Find the top 3 most frequent elements in a dictionary with numerical values.
+53. Convert a nested dictionary into a flattened dictionary with dot-separated keys.
+54. Convert a list of dictionaries into a single dictionary grouped by a common key.
+55. Create a dictionary from a list where keys are elements and values are their frequencies.
+56. Sort a dictionary by values in descending order while maintaining order.
+57. Reverse sort a dictionary by length of string keys.
+58. Create a dictionary where keys are tuples and values are the sum of tuple elements.
+59. Find common key-value pairs between two dictionaries.
+60. Convert a dictionary of lists into a list of dictionaries.
+61. Compute the cumulative sum of values in a dictionary.
+62. Find missing keys in one dictionary compared to another.
+63. Check if two dictionaries are structurally identical (ignoring values).
+64. Replace all values in a dictionary that meet a certain condition (e.g., all values < 5 set to 0).
+65. Convert a dictionary of tuples into a dictionary of lists.
