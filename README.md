@@ -1,7 +1,7 @@
 # Python
 ### 1. Basics
 - **1.1 Practice**
-  - Loops, Functions, List, Tuple, Dictionary, Set, Slicing, List Comprehension
+  - Loops, Functions, Lists, Tuples, Dictionary, Set, Slicing, List Comprehension, Lambda Function
 ### 2. Numpy
 - **2.1 Basics**
   - Arrays, Matrix, Mathematical Operations - Addition, Subtraction, Multiplication, Division, Matrix Multiplication
